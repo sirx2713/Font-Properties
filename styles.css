@@ -1,0 +1,7 @@
+#color-p{color: coral;}
+#size-p{font-size: 2rem;}
+#weight-p{font-weight: 900;}
+#family-p{font-family: 'Caveat',cursive; font-weight: 400;}
+#align-p{text-align: right;}
+html{font-size: 30px;}
+body{background-color: cornflowerblue; color: white; font-size: 18px;}
